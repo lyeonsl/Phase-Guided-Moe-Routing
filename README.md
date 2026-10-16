@@ -36,6 +36,8 @@ This work addresses the problem with two complementary approaches:
 
 ## Model Architecture
 
+<img width="6583" height="2419" alt="그림2" src="https://github.com/user-attachments/assets/2d3f05e5-d789-4a2f-9ac1-45c5de44cc8c" />
+
 ```
 Input image (224x224)
 |
