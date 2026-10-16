@@ -357,19 +357,3 @@ Performs video-level prediction by averaging frame-level scores within each vide
 | `compute_apcer_bpcer_acer` | Computes APCER, BPCER, and ACER |
 
 ---
-
-## References
-
-```
-[1] C. Kong et al., "MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient
-    Face Forgery Detection," IEEE Trans. Dependable Secure Comput., vol. 23, no. 1, 2026.
-
-[2] A. V. Oppenheim and J. S. Lim, "The Importance of Phase in Signals,"
-    Proc. IEEE, vol. 69, no. 5, pp. 529-541, 1981.
-
-[3] H. Liu et al., "Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection
-    in Frequency Domain," in Proc. CVPR, 2021, pp. 772-781.
-
-[4] A. Rossler et al., "FaceForensics++: Learning to Detect Manipulated Facial Images,"
-    in Proc. ICCV, 2019, pp. 1-11.
-```
