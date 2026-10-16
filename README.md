@@ -2,9 +2,8 @@
 
 **2026 Graduation Project — Division of Artificial Intelligence Engineering, Sookmyung Women's University**  
 
-**Authors:** Joo-Yeon Kim, Yeon-Seo Kim
-
-**Advisor:** Prof. Byung-Gyu Kim
+Authors: Joo-Yeon Kim, Yeon-Seo Kim<br>
+Advisor: Prof. Byung-Gyu Kim
 
 A ViT-B/16 based deepfake detection framework that mitigates performance degradation under lossy compression (JPEG / video encoding) by integrating Phase-Only Reconstruction into Mixture-of-Experts routing and combining it with JPEG Compression Augmentation.
 
